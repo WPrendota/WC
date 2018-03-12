@@ -1,0 +1,8 @@
+WC is words, characters and lines counter. 
+
+Usage:
+Run as a normal python file with fallowing flags:
+  -h, --help  show this help message and exit
+  -l L        Prints the newline counts. Input: text file name.
+  -m M        Prints the character counts. Input: text file name.
+  -w W        Prints the word counts. Input: text file name.
