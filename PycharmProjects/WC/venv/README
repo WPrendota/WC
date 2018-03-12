@@ -6,3 +6,13 @@ Run as a normal python file with fallowing flags:
   -l L        Prints the newline counts. Input: text file name.
   -m M        Prints the character counts. Input: text file name.
   -w W        Prints the word counts. Input: text file name.
+  
+  Content:
+  1. Class WC with argparse module.
+  2. Functions.py:
+    File with three defined functions:
+    - count_chars - function for characters counting,
+    - count_words - function for words counting,
+    - count_lines - function for lines counting.
+    
+Witold
