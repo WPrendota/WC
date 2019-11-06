@@ -1,4 +1,4 @@
-**WC - counter**
+# **WC - counter**
 
 Version 1.0.0
 
